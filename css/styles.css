@@ -1,0 +1,125 @@
+/******************Web Tags******************/
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+body{
+  color: #40514e;
+  font-family: 'Merriweather', serif;
+  margin: auto;
+  text-align: center;
+}
+h1{
+  color:  #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2{
+  color:  #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3{
+
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  align: center;
+  border-color: #eaf6f6;
+  border-style: dotted;
+  border-width: 0.50rem 0 0 0;
+  margin: 100px auto;
+  width: 10%;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  margin: 0;
+}
+
+/******************Classes******************/
+.top-container{
+  background-color: #eaf6f6;
+  padding-top: 100px;
+  position: relative;
+  text-align: center;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 25px 0;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 150px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  bottom: 300px;
+  left: 200px;
+  position: absolute;
+}
+
+.intro
+{
+  margin: auto;
+  width: 30%;
+}
+
+.profile{
+}
+
+.chillie-img{
+  float: left;
+  margin-right: 30px;
+  width: 10rem;
+}
+
+.computer-img{
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+  width: 10rem;
+}
+
+.skill-row{
+  margin: 100px auto;
+  text-align: left;
+  width: 30%;
+}
+
+.contact-me{
+  margin: 60px auto 40px;
+  width: 30%;
+}
+
+.footer-link{
+  margin-right: 50px;
+}
+
+.copy{
+  color: #eaf6f6;
+  font-size: 0.75;
+  margin-top: 25px;
+}
+
+/******************Ids******************/
